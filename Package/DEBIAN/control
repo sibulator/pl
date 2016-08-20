@@ -1,0 +1,10 @@
+Package: com.WidgetiMini.pl
+Name: Widget iMini PL
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iWidgets
+Depiction: http://repo.winneonsword.net/packages/package.html
+Homepage: http://repo.winneonsword.net
+Maintainer: Sibul <bastek.n@gmail.com>
+Author: Sibul <bastek.n@gmail.com>
+Section: Widgets
